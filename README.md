@@ -1,6 +1,8 @@
-# Flask API Starter
+# Gunicorn Server Starter
 
-This is the simplest possible python api using gunicorn: 
+This is the simplest possible python api using gunicorn.
+
+To all requests it returns:
 ```
 Hello, world!
 ```
